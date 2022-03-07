@@ -1,13 +1,14 @@
 # Axios Encapsulation using Typescript 
 
-## features
+## Features
+
 Suitable for a variety of scenarios.
 
-Ubiquitous code tips.
+- Ubiquitous code tips.
 
-Flexible interceptor.
+- Flexible interceptor.
 
-You can create multiple instances and flexibly adjust them according to the project.
+- You can create multiple instances and flexibly adjust them according to the project.
 
-Each instance or interface can flexibly configure request header, timeout, etc.
+- Each instance or interface can flexibly configure request header, timeout, etc.
 
